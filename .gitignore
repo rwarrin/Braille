@@ -1,0 +1,6 @@
+braille
+*.o
+tests/
+*.swp
+*.un~
+
